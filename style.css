@@ -1,8 +1,4 @@
-body{
-    font-family: arial;
-    background-color: black;
-    color: white;
-}
+
 
 h1{
     font-size: 60px;
@@ -14,4 +10,10 @@ p{
     text-align: center;
     font-size: 40px;
     color: red;
+}
+
+body{
+    font-family: arial;
+    background-color: black;
+    color: white;
 }
