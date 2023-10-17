@@ -1,17 +1,15 @@
 body{
     font-family: arial;
-    background-color: blueviolet;
+    background-color: black;
+    color: white;
 }
 
 h1{
-    background-color: black;
-    color: aquamarine;
+    font-size: 60px;
 }
 
 
 p{
-    text-align: right;
-    color: red;
+    text-align: center;
     font-size: 40px;
-    background-color: blue;
 }
