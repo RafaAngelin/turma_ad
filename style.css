@@ -16,7 +16,13 @@ p{
     font-size: 40px;
 }
 
-div{
+
+#branco{
+    background-color: white;
+    height: 100px;
+}
+
+#vermelho{
     background-color: red;
     height: 100px;
 }
